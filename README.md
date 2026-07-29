@@ -23,8 +23,8 @@ Após a compilação das devolutivas, iniciou-se a **Fase de Informação**, com
 
 O desenvolvimento do projeto e seus materiais são fundamentados em dados estatísticos e estudos científicos renomados:
 
-1. **Censo Família-Escola (Great Place to Study®)**:
-   * Constatou que o tema **"Telas, celular e tecnologia"** é o maior desafio apontado espontaneamente por pais e mães brasileiros na educação dos filhos hoje, correspondendo a **24,3%** das respostas (liderando com folga o ranking).
+1. **Pesquisas de Larga Escala sobre Educação e Família**:
+   * Constatam que o tema **"Telas, celular e tecnologia"** é o maior desafio apontado espontaneamente por pais e mães na educação dos filhos hoje, correspondendo a **24,3%** das respostas (liderando com folga o ranking).
 2. **Cetic.br (TIC Kids Online Brasil)**:
    * Dados públicos sobre o comportamento, segurança digital, privacidade e hábitos de navegação de crianças e adolescentes no território nacional.
 3. **Frontiers in Psychology**:
