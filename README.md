@@ -23,12 +23,12 @@ Após a compilação das devolutivas, iniciou-se a **Fase de Informação**, com
 
 O desenvolvimento do projeto e seus materiais são fundamentados em dados estatísticos e estudos científicos renomados:
 
-1. **Pesquisas de Larga Escala sobre Educação e Família**:
-   * Constatam que o tema **"Telas, celular e tecnologia"** é o maior desafio apontado espontaneamente por pais e mães na educação dos filhos hoje, correspondendo a **24,3%** das respostas (liderando com folga o ranking).
-2. **Cetic.br (TIC Kids Online Brasil)**:
-   * Dados públicos sobre o comportamento, segurança digital, privacidade e hábitos de navegação de crianças e adolescentes no território nacional.
-3. **Frontiers in Psychology**:
-   * Referencial teórico sobre os impactos neurocognitivos do tempo excessivo de tela no desenvolvimento infantil e na regulação das emoções.
+1. **Cetic.br (TIC Kids Online Brasil)**:
+   * Portal oficial: [cetic.br/pt/pesquisa/kids-online/](https://cetic.br/pt/pesquisa/kids-online/)
+   * Dados nacionais apontam que **95%** das crianças e adolescentes (9 a 17 anos) acessam a internet, sendo que **24%** já tentaram reduzir o tempo online sem sucesso e **22%** continuam conectados mesmo sem interesse direto.
+2. **Frontiers in Psychology**:
+   * Portal oficial: [frontiersin.org/journals/psychology](https://www.frontiersin.org/journals/psychology)
+   * Publicações científicas associando o tempo excessivo de tela a prejuízos no neurodesenvolvimento cognitivo infantil, regulação emocional e dinâmica sociofamiliar.
 
 ---
 
