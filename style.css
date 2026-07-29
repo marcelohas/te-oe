@@ -796,3 +796,12 @@ h1, h2, h3, h4, h5, h6 {
 .footer-logo i {
     color: var(--accent-color);
 }
+
+.signature p a {
+    transition: var(--transition-smooth);
+}
+
+.signature p a:hover {
+    color: var(--text-light) !important;
+    transform: translateY(-1px);
+}
