@@ -1,0 +1,13 @@
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary files
+*.zip
+*.log
+scratch/
+temp/
+extracted_docx/
+read_docx.py
+read_docx.js
